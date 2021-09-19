@@ -1,2 +1,5 @@
 Some text for header
-Changes from <master> - new changes!
+Changes from <master>
+Changes ftom <first>
+
+Text from master: new changes! 
